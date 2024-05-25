@@ -1,0 +1,21 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #000000;
+  p {
+    color: rgb(166, 120, 40);
+  }
+}
+
+#biodata {
+  padding-top: 2rem;
+  background-color: #000000;
+}
+
+#project {
+  padding-top: 2rem;
+  background-color: #000000;
+}
